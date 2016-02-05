@@ -18,6 +18,7 @@ How many locations will the trip consist? 2
 
 
 Please enter the address: Los Angeles, CA
+
 Please enter the address: Anaheim, CA
 
 
@@ -33,31 +34,21 @@ Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION
 
 Please enter your #1 desired data type: 
 
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
-
 Type precisely: STEPS
 
 Please enter your #2 desired data type: 
-
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
 
 Type precisely: LATLONG
 
 Please enter your #3 desired data type: 
 
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
-
 Type precisely: TOTALDISTANCE
 
 Please enter your #4 desired data type: 
 
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
-
 Type precisely: TOTALTIME
 
 Please enter your #5 desired data type: 
-
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
 
 Type precisely: ELEVATION
 
