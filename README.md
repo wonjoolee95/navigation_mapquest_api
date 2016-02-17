@@ -5,38 +5,38 @@ Download all files in the same folder the run the ' user_interface.py ' file to 
 
 
 Sample interaction (Note the precise formatting of the user input): 
-User inputs are in **bold**
+
 
 ```
 Welcome to the GPS system!
 
-How many locations will the trip consist? **2**
+How many locations will the trip consist? 2
 
 
-Please enter the address: **Los Angeles, CA**
+Please enter the address: Los Angeles, CA
 
-Please enter the address: **Anaheim, CA**
+Please enter the address: Anaheim, CA
 
 
 How many types of data do you want? 
 Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
-(Enter a number): **5**
+(Enter a number): 5
 
 
 Please enter your #1 desired data type: 
-Type precisely: **STEPS**
+Type precisely: STEPS
 
 Please enter your #2 desired data type: 
-Type precisely: **LATLONG**
+Type precisely: LATLONG
 
 Please enter your #3 desired data type: 
-Type precisely: **TOTALDISTANCE**
+Type precisely: TOTALDISTANCE
 
 Please enter your #4 desired data type: 
-Type precisely: **TOTALTIME**
+Type precisely: TOTALTIME
 
 Please enter your #5 desired data type: 
-Type precisely: **ELEVATION**
+Type precisely: ELEVATION
 
 DIRECTIONS
 Start out going southwest on Spring St toward W 1st St.
