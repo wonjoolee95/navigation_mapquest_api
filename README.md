@@ -5,8 +5,9 @@ Download all files in the same folder the run the ' user_interface.py ' file to 
 
 
 Sample interaction (note the precise input):
+'''
 
->>>>>>>>>>
+
 
 
 Welcome to the GPS system!
@@ -109,4 +110,4 @@ Directions Courtesy of MapQuest; Map Data Copyright OpenStreetMap Contributors
 
 
 
->>> 
+'''
