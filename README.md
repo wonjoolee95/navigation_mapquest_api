@@ -1,75 +1,40 @@
 # navigation_mapquest_api
 A simple navigation system written in Python (primarily through Python 'class' structure), using the free API from mapquest.com.
 
-Download all files in the same folder the run the ' user_interface.py ' file to run the program. The purpose of the program was to practice simple interactions of API using python; therefore, the program does not catch extensive exceptions. The inputs must be typed precisely.
+Download all files in the same folder the run the ' user_interface.py ' file to run the program. The purpose of the program was to practice simple interactions of API using python; therefore, the program does not catch extensive exceptions. 
 
-
-Sample interaction (Note the precise formatting of the user input): 
-
+Sample interaction:
 
 ```
+
 Welcome to the GPS system!
 
-How many locations will the trip consist? 2
+FROM: 113 Oxford Irvine, CA 92612
+TO: 1858 W. Falmouth Ave. Anaheim, CA 92801
 
-
-Please enter the address: Los Angeles, CA
-
-Please enter the address: Anaheim, CA
-
-
-How many types of data do you want? 
-Options: STEPS, LATLONG, TOTALDISTANCE, TOTALTIME, ELEVATION 
-(Enter a number): 5
-
-
-Please enter your #1 desired data type: 
-Type precisely: STEPS
-
-Please enter your #2 desired data type: 
-Type precisely: LATLONG
-
-Please enter your #3 desired data type: 
-Type precisely: TOTALDISTANCE
-
-Please enter your #4 desired data type: 
-Type precisely: TOTALTIME
-
-Please enter your #5 desired data type: 
-Type precisely: ELEVATION
 
 DIRECTIONS
-Start out going southwest on Spring St toward W 1st St.
-Turn left onto W 1st St.
-Turn left onto Main St.
-Turn right onto W Aliso St.
-Keep left at the fork to continue on W Aliso St.
-Merge onto US-101/Santa Ana Fwy.
-US-101/Santa Ana Fwy becomes I-5/Santa Ana Fwy.
-Take the Lincoln Avenue exit, EXIT 111.
-Turn left onto Lincoln Ave.
-Turn right onto Harbor Blvd.
-Turn left onto West Broadway.
-West Broadway becomes East Broadway.
-Welcome to ANAHEIM, CA.
+Start out going northwest on Columbia toward Georgetown.
+Turn right onto Harvard Ave.
+Turn left onto Culver Dr.
+Merge onto I-405/San Diego Fwy.
+Merge onto CA-55/Costa Mesa Fwy via EXIT 9A.
+Merge onto I-5/Santa Ana Fwy via EXIT 10B.
+Take EXIT 113B toward La Palma Avenue East.
+Turn right onto La Palma Ave.
+Stay straight to go onto W La Palma Ave.
+Turn left onto N Columbine St.
+Turn right onto W Falmouth Ave.
+1858 WEST FALMOUTH AVENUE.
 
 LATLONGS
-34.05 N 118.24 W
-33.83 N 117.91 W
+33.65 N 117.83 W
+33.85 N 117.95 W
 
-TOTAL DISTANCE: 26 miles
+TOTAL DISTANCE: 20 miles
 
-TOTAL TIME: 30 minutes
-
-ELEVATIONS
-315
-184
-
-
+TOTAL TIME: 24 minutes
 
 Directions Courtesy of MapQuest; Map Data Copyright OpenStreetMap Contributors
-
-
-
 
 ```
